@@ -1,6 +1,3 @@
-/* ComputeGPA.java
-* Caleb Hubbard
-*/
 
 import java.text.DecimalFormat;
 import java.util.Scanner;  
